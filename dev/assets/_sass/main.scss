@@ -1,0 +1,41 @@
+@import "susy";
+@import "breakpoint";
+
+
+body {
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+h1 {
+    font: 13px Arial, sans-serif;
+    color: #333;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    opacity: 0.5;
+}
+
+.example {
+    @include span(3);
+};
+
+
+$basic: 543px;
+$pair: 456px 794px;
+
+#foo {
+  content: 'No Media Queries';
+
+  @include breakpoint($basic) {
+    content: 'Basic Media Query';
+  }
+
+  @include breakpoint($pair) {
+    content: 'Paired Media Query';
+  }
+}
+
+
+

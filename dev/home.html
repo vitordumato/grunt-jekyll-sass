@@ -1,0 +1,60 @@
+---
+layout: full
+title: Listagem de Produtos
+---
+
+<div class="box-content">
+    <header class="title-content">
+        <h1>Produtos em destaque</h1>
+    </header>
+</div>
+
+<div class="grid-list aside-grid">
+    {% for product in site.data.product-list limit:20 %}
+    <div class="grid-product divider-product">
+        <div class="product-wrap">
+            <div class="product-thumb">
+                <span class="thumb-image">
+                    <a href="">
+                        <img src="assets/images/img-test/{{ product.image }}" />
+                    </a>
+
+                    {{ product.flag }}
+                </span>
+            </div>
+
+            <div class="product-content">
+                <span class="content-title content-item">
+                    <a href="">{{ product.title }}</a>
+                </span>
+
+                <!-- <span class="content-description content-item">
+                    {{ product.description }}
+                </span> -->
+
+                <span class="content-author content-item">
+                    <a href="">{{ product.author }}</a>
+                </span>
+
+                <span class="content-price content-item">
+                    <span class="price-old price-item">
+                        de {{ product.value-old }} por
+                    </span>
+
+                    <span class="price-new price-item">
+                        {{ product.value-new }}
+                    </span>
+
+                    <span class="price-credit price-item">
+                        12X de {{ product.value-slice }} sem juros
+                    </span>
+                </span>
+
+                <span class="content-category content-item">
+                    <a href="">+ {{ product.category }}</a>
+                </span>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

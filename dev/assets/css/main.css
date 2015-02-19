@@ -1,0 +1,40 @@
+/* line 5, ../_sass/main.scss */
+body {
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+
+/* line 11, ../_sass/main.scss */
+h1 {
+  font: 13px Arial, sans-serif;
+  color: #333;
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+  opacity: 0.5;
+}
+
+/* line 20, ../_sass/main.scss */
+.example {
+  width: 73.68421%;
+  float: left;
+  margin-right: 5.26316%;
+}
+
+/* line 28, ../_sass/main.scss */
+#foo {
+  content: 'No Media Queries';
+}
+@media (min-width: 543px) {
+  /* line 28, ../_sass/main.scss */
+  #foo {
+    content: 'Basic Media Query';
+  }
+}
+@media (min-width: 456px) and (max-width: 794px) {
+  /* line 28, ../_sass/main.scss */
+  #foo {
+    content: 'Paired Media Query';
+  }
+}

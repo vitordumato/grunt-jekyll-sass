@@ -1,0 +1,99 @@
+- image:        produto-1.jpg
+  flag:         <div class="product-flag">
+                    <a href="">
+                        <span class="flag-pattern flag-release">Frete Grátis</span>
+                    </a>
+                </div>
+  category:     Artes marciais
+  title:        Tênis Puma Flextrainer
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-2.jpg
+  flag:         <div class="product-flag">
+                    <a href="">
+                        <span class="flag-pattern flag-sale">Frete Grátis</span>
+                    </a>
+                </div>
+  category:     Aventura
+  title:        Jogo Final Fantasy XIII 2 PS3
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-3.jpg
+  flag:         <div class="product-flag">
+                    <a href="">
+                        <span class="flag-pattern flag-free">Frete Grátis</span>
+                    </a>
+                </div>
+  category:     Basquete
+  title:        Saco de Dormir Mormaii Concha 3 R
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-4.jpg
+  flag:         <div class="product-flag">
+                    <a href="">
+                        <span class="flag-pattern flag-reprint">Frete Grátis</span>
+                    </a>
+                </div>
+  category:     Casual
+  title:        Saco de Dormir Mormaii Concha 3 R
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-5.jpg
+  category:     Chuteiras
+  title:        Bicicleta Caloi Andes Aro 26 - 21 Marchas - Suspensão Dianteira
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-6.jpg
+  category:     Bolas
+  title:        Jogo Copa do Mundo da FIFA Brasil 2014™ PS3
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-7.jpg
+  category:     Clubes brasileiros
+  title:        Estação de Musculação Kenkorp M3
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-8.jpg
+  category:     Clubes estrangeiros
+  title:        Chinelo Nike Solarsoft Slide
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-9.jpg
+  category:     Skate
+  title:        BARRACA MORMAII BALI 2
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00
+
+- image:        produto-10.jpg
+  category:     Seleções
+  title:        Camiseta Nike Seleção Brasil Core Ringer
+  description:  O referido curso visa promover o conhecimento da Criminologia que abrange estudos sobre a violência, vitimologia.
+  value-old:    R$ 34,00
+  value-new:    R$ 84,00
+  value-slice:  R$ 34,00

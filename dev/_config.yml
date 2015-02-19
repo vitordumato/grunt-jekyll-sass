@@ -1,0 +1,9 @@
+name:           Modelo
+markdown:       redcarpet
+highlighter:    pygments
+destination:    ./_site
+layouts:        ./_layouts
+css_folder:     'assets/css'
+js_folder:      'assets/js'
+img_folder:     'assets/img'
+

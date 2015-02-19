@@ -9,7 +9,8 @@ module.exports = function( grunt ) {
 
 		  	my_target : {
 				files : {
-			  	'dev/assets/js/main.js' : [ 'dev/assets/_js/scripts.js' ]
+			  	'dev/assets/js/main.js' : [ 'dev/assets/_js/main.js' ],
+			  	'dev/assets/js/plugins.js' : [ 'dev/assets/_js/plugins.js' ],
 				}
 		  	}
 		}, // uglify
